@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const Container = styled.div`
     width: 100%;
     height: 100vh;
-    background-color: #CACACA;
+    background-color: #1789A1;
 
     display: flex;
     align-items: center;
@@ -22,11 +22,3 @@ export const Row = styled.div`
     justify-content: space-between;
     align-items: center;
 `
-
-export const Column = styled.div`
-    display:flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-`
-
